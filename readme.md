@@ -1,10 +1,10 @@
-# Haskell Project
+# Haskell Gaming
+## Haskell Gaming
 
-### This project was assigned to us as a part of the Programming Languages course
-### It is a collaborative effort of:
+## About
+Project utilizes haskell-haste compiler to automatically play a NIM game, engine of which was made in React + Typescript
+
+## Authors
 * Tymoteusz Paliński (tpalinski@icloud.com)
 * Anna Zhurba
 * Piotr Noga
-
-## This project consists of 3 parts:
-* TBA
