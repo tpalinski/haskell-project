@@ -1,8 +1,7 @@
 # Haskell Gaming
-## Haskell Gaming
 
 ## About
-Project utilizes haskell-haste compiler to automatically play a NIM game, engine of which was made in React + Typescript
+Project utilizes haskell to solve some math stuff, not much to say bout it tbh
 
 ## Authors
 * Tymoteusz Paliński (tpalinski@icloud.com)
